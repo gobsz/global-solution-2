@@ -1,0 +1,9 @@
+export const Footer = () => {
+  return (
+    <footer className="bg-slate-800 text-slate-400 mt-auto">
+      <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 text-center text-sm">
+        <p>&copy; 2025 SkillNavigator. Um MVP para o Futuro do Trabalho.</p>
+      </div>
+    </footer>
+  );
+};
